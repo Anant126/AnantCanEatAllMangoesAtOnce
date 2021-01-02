@@ -1,1 +1,2 @@
-# AnantCanEatAllMangoesAtOnce
+# MatterJSBoilerPlate
+MatterJSBoilerPlate
